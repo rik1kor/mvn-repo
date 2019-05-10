@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.siemens.bt.jazz.services.PersonalTokenService</groupId>
+  <artifactId>com.siemens.bt.jazz.services.PersonalTokenService.parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190509114348</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 10 16:40:17 CEST 2019
+C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins/.error=Could not transfer artifact com.siemens.bt.jazz.services.PersonalTokenService\:com.siemens.bt.jazz.services.PersonalTokenService\:pom\:1.0.1-SNAPSHOT from/to my-internal-site (C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins)\: Cannot access C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+file\:///C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins/.lastUpdated=1557498905084
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact com.siemens.bt.jazz.services.PersonalTokenService\:com.siemens.bt.jazz.services.PersonalTokenService\:pom\:1.0.1-SNAPSHOT from/to apache-public (https\://repository.apache.org/content/groups/public/)\: unexpected end of stream on Connection{repository.apache.org\:443, proxy\=HTTP @ rb-proxy-apac.bosch.com/10.187.52.240\:8080 hostAddress\=10.187.52.240 cipherSuite\=none protocol\=http/1.1} (recycle count\=0)
+8ccd3f9729e532a054ebe285beb6e0aa2de7546c@rb-proxy-apac.bosch.com\:8080>@default-apache-public-https\://repository.apache.org/content/groups/public/.lastUpdated=1551250607611
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/groups/cloudia-group/.lastUpdated=1551250608153
+8ccd3f9729e532a054ebe285beb6e0aa2de7546c@rb-proxy-apac.bosch.com\:8080>@default-apache-public1-https\://repository.jboss.org/nexus/content/groups/fs-public/.lastUpdated=1551250607749
+file\:///C\:\\Users\\rik1kor\\Documents\\git_link_external_libs/.error=
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/groups/cloudia-group/.error=
+file\:///C\:\\Users\\rik1kor\\Documents\\git_link_external_libs/.lastUpdated=1557498827575
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/repositories/snapshots/.lastUpdated=1557291713122
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/groups/fs-public/.error=Could not transfer artifact com.siemens.bt.jazz.services.PersonalTokenService\:com.siemens.bt.jazz.services.PersonalTokenService\:pom\:1.0.1-SNAPSHOT from/to apache-public1 (https\://repository.jboss.org/nexus/content/groups/fs-public/)\: unexpected end of stream on Connection{repository.jboss.org\:443, proxy\=HTTP @ rb-proxy-apac.bosch.com/10.187.52.240\:8080 hostAddress\=10.187.52.240 cipherSuite\=none protocol\=http/1.1} (recycle count\=0)
+file\:///C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins/.error=
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/groups/public/.error=
+http\://nexus.emt.cdg-smt.de.bosch.com\:8280/nexus/content/groups/public/.lastUpdated=1557291712805
+@default-my-internal-site-C\:/Users/rik1kor/Documents/_gitanother/com.bosch.rtc.ecl.git.external_plugins/.lastUpdated=1557499217184
