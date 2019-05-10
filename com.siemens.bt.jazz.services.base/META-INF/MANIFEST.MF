@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Base
+Bundle-SymbolicName: com.siemens.bt.jazz.services.base
+Bundle-Version: 3.0.3
+Bundle-ClassPath: com.siemens.bt.jazz.services.base-3.0.3-SNAPSHOT.jar
+Export-Package: com.siemens.bt.jazz.services.base,
+ com.siemens.bt.jazz.services.base.rest,
+ com.siemens.bt.jazz.services.base.rest.parameters,
+ com.siemens.bt.jazz.services.base.rest.service,
+ com.siemens.bt.jazz.services.base.router,
+ com.siemens.bt.jazz.services.base.router.factory,
+ com.siemens.bt.jazz.services.base.router.map,
+ com.siemens.bt.jazz.services.base.utils
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: com.siemens.bt.jazz.services.base
