@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 27 17:11:53 IST 2018
+logback-core-1.2.3-sources.jar>ubknexus=
+logback-core-1.2.3.jar>ubknexus=
+logback-core-1.2.3.pom>ubknexus=
